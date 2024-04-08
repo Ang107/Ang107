@@ -27,8 +27,7 @@
 
 ## 📚 プロジェクト
 
-- [MH4GInfoManagement](https://github.com/Ang107/MH4GInfoManagement): あるゲームに関する情報交換、交流掲示板
-- [AtCoder](https://github.com/Ang107/Atcoder): 競技プログラミング関連で書いたコード
+- [MH4GInfoManagement](https://github.com/Ang107/MH4GInfoManagement): 個人開発したゲームに関する情報交換、交流掲示板
 
 ## 📝 ブログ & 投稿
 
