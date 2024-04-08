@@ -33,6 +33,7 @@
 ## 📝 ブログ & 投稿
 
 - [AHC031参加記](https://ang107.hatenablog.jp/entry/2024/04/02/152917)
+- [入緑記事](https://qiita.com/Ang107/items/0ee28c41896cbcf11bbc)
 
 
 ## 🌟 興味があること
