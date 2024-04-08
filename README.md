@@ -27,7 +27,7 @@
 
 ## 📚 プロジェクト
 
-- [MH4GInfoManagement](https://github.com/Ang107/MH4GInfoManagement): 個人開発したゲームに関する情報交換、交流掲示板
+- [MH4GInfoManagement](https://github.com/Ang107/MH4GInfoManagement): Laravelを用いて個人開発したゲームに関する情報交換、交流掲示板
 
 ## 📝 ブログ & 投稿
 
