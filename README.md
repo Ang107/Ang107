@@ -16,7 +16,7 @@
   - 応用情報技術者試験合格
   - AtCoder アルゴリズムのレート: **水** (Highest1303) (上位8%)
   - AtCoder ヒューリスティックのレート: **黄** (Highest2015) (上位4%)
-  - CodeForces **水** (Highset1539)
+  - CodeForces **青** (Highset1676)
   - Paiza Sランク
   - HTTF(AHC 027) **就活生賞13位**(全体164位 / 1067)
   - REUCRUIT 日本橋ハーフマラソン2024冬(AHC 029) **学生順位27位**(全体111位 / 833)
