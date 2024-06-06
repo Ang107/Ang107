@@ -14,8 +14,9 @@
   - 情報セキュリティマネジメント試験合格
   - 基本情報技術者試験合格
   - 応用情報技術者試験合格
-  - AtCoder アルゴリズムのレート: **水** (Highest1275) (上位8%)
+  - AtCoder アルゴリズムのレート: **水** (Highest1303) (上位8%)
   - AtCoder ヒューリスティックのレート: **黄** (Highest2015) (上位4%)
+  - CodeForces **水** (Highset1539)
   - Paiza Sランク
   - HTTF(AHC 027) **就活生賞13位**(全体164位 / 1067)
   - REUCRUIT 日本橋ハーフマラソン2024冬(AHC 029) **学生順位27位**(全体111位 / 833)
@@ -29,7 +30,10 @@
 
 ## 📚 プロジェクト
 
-- [MH4GInfoManagement](https://github.com/Ang107/MH4GInfoManagement): Laravelを用いて個人開発したゲームに関する情報交換、交流掲示板
+- [MH4GInfoManagement](https://github.com/Ang107/MH4GInfoManagement): Laravelを用いて開発したゲームに関する情報交換、交流掲示板
+- [拡張マルバツゲーム](https://github.com/Ang107/OX_Game): 競技プログラミング問題を原案とした、NPCと対戦できる拡張されたマルバツゲーム
+- [シフトスケジューラー](https://github.com/Ang107/ShiftScheduler): シフト希望表からタスクをより均一に割り振ることのできるコマンドラインツール
+- [Pythonローカルテスター](https://github.com/Ang107/Python_local_tester): Pythonのみで動作する簡易のテスター
 
 ## 📝 ブログ & 投稿
 
