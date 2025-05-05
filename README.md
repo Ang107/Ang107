@@ -33,6 +33,7 @@
 ## 📚 プロジェクト
 
 - [MH4GInfoManagement](https://github.com/Ang107/MH4GInfoManagement): Laravelを用いて開発したゲームに関する情報交換、交流掲示板
+- [ツアマス ライブフォト Downloader](https://github.com/Ang107/THE-IDOL-MASTER-TOURS-livephoto-downloader): ツアマスのライブフォトのダウンロードを効率化するwebサービス
 - [拡張マルバツゲーム](https://github.com/Ang107/OX_Game): 競技プログラミング問題を原案とした、NPCと対戦できる拡張されたマルバツゲーム
 - [シフトスケジューラー](https://github.com/Ang107/ShiftScheduler): シフト希望表からタスクをより均一に割り振ることのできるコマンドラインツール
 - [Pythonローカルテスター](https://github.com/Ang107/Python_local_tester): Pythonのみで動作する簡易のテスター
